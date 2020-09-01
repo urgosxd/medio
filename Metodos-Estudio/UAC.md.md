@@ -4,6 +4,7 @@
 - 36 años existencia
 - Inicio Actividades 5 octubre 1979
 - pirimer examen 5 octubre 1980
+- Primer rector mario escobar
 ### Fundadores
 - Dr. Antonio Callo Caceres
 - Dr. Nestor Bustos Silva
@@ -22,5 +23,6 @@
 - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTc3NTQxNiwtNDA4NjEyMzU4XX0=
+eyJoaXN0b3J5IjpbLTY5NzkzMTgzMiwtOTIxNzc1NDE2LC00MD
+g2MTIzNThdfQ==
 -->
