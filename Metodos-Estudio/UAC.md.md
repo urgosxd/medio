@@ -13,8 +13,9 @@
 - Contabilidad
 - Derecho
 - Servicio Social
+- Derecho
 - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTI5NDUxN119
+eyJoaXN0b3J5IjpbLTQwODYxMjM1OF19
 -->
