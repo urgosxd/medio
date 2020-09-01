@@ -1,5 +1,5 @@
 # La Universidad
-
+### Concepto
 
 - Maestros y estudiantes de distintos lugares
 
@@ -15,5 +15,5 @@
 
 - organizacion de la sociedad cristiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc4Njc0MDRdfQ==
+eyJoaXN0b3J5IjpbLTE2MTg0ODE2NDhdfQ==
 -->
