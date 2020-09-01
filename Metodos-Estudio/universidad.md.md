@@ -6,7 +6,10 @@
 - Proviene del universo, todos
 
 ### Primeras Universidades
- - 
+ - Bolonia
+ - Oxford
+ - Paris
+ -  
 
 ###  Finalidades
 
@@ -14,5 +17,5 @@
 
 - organizacion de la sociedad cristiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk1MjY5NDEsMTUyODQxMjk3Ml19
+eyJoaXN0b3J5IjpbLTQ1MDA0NDgwNSwxNTI4NDEyOTcyXX0=
 -->
