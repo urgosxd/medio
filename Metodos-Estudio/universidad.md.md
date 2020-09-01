@@ -9,7 +9,7 @@
  - Bolonia
  - Oxford
  - Paris
- -  
+ - Palencia España 
 
 ###  Finalidades
 
@@ -17,5 +17,5 @@
 
 - organizacion de la sociedad cristiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDA0NDgwNSwxNTI4NDEyOTcyXX0=
+eyJoaXN0b3J5IjpbOTE3NjYyNDczLDE1Mjg0MTI5NzJdfQ==
 -->
