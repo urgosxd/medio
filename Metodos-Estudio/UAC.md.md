@@ -15,8 +15,12 @@
 - Derecho
 - Servicio Social
 - Derecho
+- Economia 
+- Industrial
+- Psicologia
+- 
 - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTkwODI4NiwtNDA4NjEyMzU4XX0=
+eyJoaXN0b3J5IjpbLTkyMTc3NTQxNiwtNDA4NjEyMzU4XX0=
 -->
