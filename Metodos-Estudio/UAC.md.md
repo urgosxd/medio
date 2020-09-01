@@ -11,7 +11,10 @@
 ### Primeras Carreras
 - Administracion
 - Contabilidad
-- Derech
+- Derecho
+- Servicio Social
+- 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2MTIwNzcwXX0=
+eyJoaXN0b3J5IjpbMTY2OTI5NDUxN119
 -->
