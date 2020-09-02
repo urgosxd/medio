@@ -43,12 +43,13 @@ Se pueden determinar 5 diferencias entre la encuesta y el etnografia:
   - Normalmente la encuesta se usa en paises modernos donde la gente sabe leer y escribir, los etnografos suelen encontrarse que gente analfabeta
   - La encuesta require un analisis estadistico, los antropologos no suelen contar con preparacion estadistica
 ## Investigacion antropologica en sociedades Contemporaneas
-Antropologos han sido criticador por generalizar culturas sobre la base de una sola comunidad, tecnica mas aceptada en poblaciones pequeñas,
+Antropologos han sido criticador por generalizar culturas sobre la base de una sola comunidad, tecnica mas aceptada en poblaciones pequeñas.
+El grado de variacion en un pais hace que la encuesta sea indispensable, La etnografia puede utilizarse para complementar a la encuesta 
   
 	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcxODQ3MjMsMTE1MDcyMTYzNCwtMT
-IxNTY2MDAzOSwzMDQ4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2
-ODIzLC0xNzM0NjEzNDcwLC0yMzQ2MzQzODBdfQ==
+eyJoaXN0b3J5IjpbLTczMDU2NTI5MywxMTUwNzIxNjM0LC0xMj
+E1NjYwMDM5LDMwNDg2MDUwLDE4NDY4MjcxOTUsLTExNjMwOTY4
+MjMsLTE3MzQ2MTM0NzAsLTIzNDYzNDM4MF19
 -->
