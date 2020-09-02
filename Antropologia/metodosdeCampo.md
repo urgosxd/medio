@@ -19,9 +19,10 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos
 	 Participar de la comunidad requiere algún esfuerzo de dominio de la lengua , si logramos dominarlo seremos capaces de participar de discusiones publicas, conversaciones importantes, aqui se encuenta la **encuesta**
 - #### Metodo Genealogico
 	Anotaciones genealogicas para conocer princios de parentesco , filiacion , matrimonio que son la **base fundamental** de las culturas no industriales , en estas sociedades se dan casamientos estrategicos entre tribus,clanes etc.	 
-  
+ - #### Informantes Clave
+	 En todas las comunidas hay personas que por diversas razones, o suerte pueden brindar informacion mas completa y util sobre los aspectos  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU2NjAwMzksMzA0ODYwNTAsMTg0Nj
-gyNzE5NSwtMTE2MzA5NjgyMywtMTczNDYxMzQ3MCwtMjM0NjM0
-MzgwXX0=
+eyJoaXN0b3J5IjpbNjYxNTQxMzc3LC0xMjE1NjYwMDM5LDMwND
+g2MDUwLDE4NDY4MjcxOTUsLTExNjMwOTY4MjMsLTE3MzQ2MTM0
+NzAsLTIzNDYzNDM4MF19
 -->
