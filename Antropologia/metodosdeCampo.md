@@ -34,11 +34,14 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos.
    Gracias a esta epoca de facil transporte podemos realizar un estudio basado en repetidas visitas, la frencuencia nos hace ver determinadas variables
 ## La encuesta
 Resulta la forma mas efectiva desarrollada a lo largo del tiempo, La encuesta reune **muestreo**, **la recogida impersonal de datos**, **y el analisis estadistico**.
-En sociedades pequeñas la encuesta llega a hacer un metodo casi personal, Las variables independientes nos ayudan a saber como piensa la gente. 	 	   
+En sociedades pequeñas la encuesta llega a hacer un metodo casi personal, Las variables independientes nos ayudan a saber como piensa la gente, como se comporta.
+Las encuestas son indispensables en estudios de grandes paises, en los que tenemos que prestar atencion a la variedad.
+Se pueden determinar 5 diferencias entre la encuesta y el etnografia:
+  - asd 	 	   
 	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5NjM0MDU5LDExNTA3MjE2MzQsLTEyMT
-U2NjAwMzksMzA0ODYwNTAsMTg0NjgyNzE5NSwtMTE2MzA5Njgy
-MywtMTczNDYxMzQ3MCwtMjM0NjM0MzgwXX0=
+eyJoaXN0b3J5IjpbMTQ1NTk5Nzk3NiwxMTUwNzIxNjM0LC0xMj
+E1NjYwMDM5LDMwNDg2MDUwLDE4NDY4MjcxOTUsLTExNjMwOTY4
+MjMsLTE3MzQ2MTM0NzAsLTIzNDYzNDM4MF19
 -->
