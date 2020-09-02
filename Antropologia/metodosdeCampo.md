@@ -37,11 +37,12 @@ Resulta la forma mas efectiva desarrollada a lo largo del tiempo, La encuesta re
 En sociedades pequeñas la encuesta llega a hacer un metodo casi personal, Las variables independientes nos ayudan a saber como piensa la gente, como se comporta.
 Las encuestas son indispensables en estudios de grandes paises, en los que tenemos que prestar atencion a la variedad.
 Se pueden determinar 5 diferencias entre la encuesta y el etnografia:
-  - asd 	 	   
+  - Los etnografos estudian comunidades tomadas globalmente, en cambio la muesta la encuesta opera con muestras elegidas por el investigador
+  - Los etnografos realizan trabajos de primera mano,  	 	   
 	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTk5Nzk3NiwxMTUwNzIxNjM0LC0xMj
+eyJoaXN0b3J5IjpbMTY5NTMyNDY0OCwxMTUwNzIxNjM0LC0xMj
 E1NjYwMDM5LDMwNDg2MDUwLDE4NDY4MjcxOTUsLTExNjMwOTY4
 MjMsLTE3MzQ2MTM0NzAsLTIzNDYzNDM4MF19
 -->
