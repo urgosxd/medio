@@ -13,9 +13,9 @@ Paso a convertirse en un **campo separado** cuando los primeros antropologos via
  7. Etnografia centrada en el estudio de problemas Concretos
  8. Investigacion Longitudinal
   - Observacion Directa
-	  
+	  Los etnografos toman importancia a los pequeños detalles de la vida cotidiana y a los mas notorios, estos siendo anotados al comienzo en un diario para que no se acostumbren y pasen desapercibidos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIxMzUxMzAsMzA0ODYwNTAsMTg0Nj
-gyNzE5NSwtMTE2MzA5NjgyMywtMTczNDYxMzQ3MCwtMjM0NjM0
-MzgwXX0=
+eyJoaXN0b3J5IjpbNjcxOTk5MTAyLDMwNDg2MDUwLDE4NDY4Mj
+cxOTUsLTExNjMwOTY4MjMsLTE3MzQ2MTM0NzAsLTIzNDYzNDM4
+MF19
 -->
