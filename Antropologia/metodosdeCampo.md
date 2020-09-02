@@ -31,12 +31,12 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos.
  - #### Etnografia centrada en problemas Concretos
 	 Resulta imposible estudias todas las culturas y aspectos importantes, por ello los antropologos se centran en problemas en espefico
  - #### Investigacion Longitudinal
-   Gracias a esta epoca de facil transporte
+   Gracias a esta epoca de facil transporte podemos realizar un estudio basado en repetidas visitas, la frencuencia nos hace ver determinadas variables
 	 	   
 	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTc1NTU3MiwtMTIxNTY2MDAzOSwzMD
+eyJoaXN0b3J5IjpbMTE1MDcyMTYzNCwtMTIxNTY2MDAzOSwzMD
 Q4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2ODIzLC0xNzM0NjEz
 NDcwLC0yMzQ2MzQzODBdfQ==
 -->
