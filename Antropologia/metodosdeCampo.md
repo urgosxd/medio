@@ -16,10 +16,12 @@ Paso a convertirse en un **campo separado** cuando los primeros antropologos via
 	  Los etnografos toman importancia a los pequeños detalles de la vida cotidiana y a los mas notorios, estos siendo anotados al comienzo en un diario para que no se acostumbren y pasen desapercibidos, los objetos del estudio no son animales sin habla,
 no forma parte del plan manipularlos o inducirlos a ciertos experimentos
 - #### Conversaciones y entrevistas
- Participar de la comunidad requiere algun esfuerzo de dominio de la lengua , si logramos dominarlo seremos capaces de participar de discusiones publicas, conversaciones importantes, aqui se encuenta la **encuesta**
--  
+	 Participar de la comunidad requiere algún esfuerzo de dominio de la lengua , si logramos dominarlo seremos capaces de participar de discusiones publicas, conversaciones importantes, aqui se encuenta la **encuesta**
+- #### Metodo Genealogico
+	Anotaciones ge	 
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg5NTQwODYsMzA0ODYwNTAsMTg0Nj
-gyNzE5NSwtMTE2MzA5NjgyMywtMTczNDYxMzQ3MCwtMjM0NjM0
-MzgwXX0=
+eyJoaXN0b3J5IjpbMTM1NTI0MDQwNCwzMDQ4NjA1MCwxODQ2OD
+I3MTk1LC0xMTYzMDk2ODIzLC0xNzM0NjEzNDcwLC0yMzQ2MzQz
+ODBdfQ==
 -->
