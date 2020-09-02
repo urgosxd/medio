@@ -1,4 +1,6 @@
 # La Universidad
+- La primera fue san marcos
+- la segunda san cristobal
 ### Concepto
 
 - Maestros y estudiantes de distintos lugares
@@ -17,5 +19,6 @@
 
 - organizacion de la sociedad cristiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3NjYyNDczLDE1Mjg0MTI5NzJdfQ==
+eyJoaXN0b3J5IjpbNzk4NjczNTAwLDkxNzY2MjQ3MywxNTI4ND
+EyOTcyXX0=
 -->
