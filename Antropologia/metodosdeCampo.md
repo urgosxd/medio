@@ -38,12 +38,12 @@ En sociedades pequeñas la encuesta llega a hacer un metodo casi personal, Las v
 Las encuestas son indispensables en estudios de grandes paises, en los que tenemos que prestar atencion a la variedad.
 Se pueden determinar 5 diferencias entre la encuesta y el etnografia:
   - Los etnografos estudian comunidades tomadas globalmente, en cambio la muesta la encuesta opera con muestras elegidas por el investigador
-  - Los etnografos realizan trabajos de primera mano, relaciones personales con la gente, La encuesta no produce relacion personal con los encuestados y se suele contratar ayudantesASSSSSSS||
+  - Los etnografos realizan trabajos de primera mano, relaciones personales con la gente, La encuesta no produce relacion personal con los encuestados y se suele contratar ayudantesASSSSSSS||||
   -  	 	   
 	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4OTYzNzQyLDExNTA3MjE2MzQsLTEyMT
-U2NjAwMzksMzA0ODYwNTAsMTg0NjgyNzE5NSwtMTE2MzA5Njgy
-MywtMTczNDYxMzQ3MCwtMjM0NjM0MzgwXX0=
+eyJoaXN0b3J5IjpbLTE3ODExODYzMzgsMTE1MDcyMTYzNCwtMT
+IxNTY2MDAzOSwzMDQ4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2
+ODIzLC0xNzM0NjEzNDcwLC0yMzQ2MzQzODBdfQ==
 -->
