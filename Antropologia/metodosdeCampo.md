@@ -2,10 +2,10 @@
 ## Etnografia
 
 Paso a convertirse en un **campo separado**
-
+cuando los primeros antropologos viajaban a tierras lejanas para estudiar pequeños grupos humanos
 
 a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI5MTgwMDMsLTE3MzQ2MTM0NzAsLT
-IzNDYzNDM4MF19
+eyJoaXN0b3J5IjpbMTM4ODU5MDk2OSwtMTczNDYxMzQ3MCwtMj
+M0NjM0MzgwXX0=
 -->
