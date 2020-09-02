@@ -1,10 +1,11 @@
 # Metodos de Campo
 ## Etnografia
 
-gu
+Paso a convertirse en un **campo separado**
 
 
 a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ2MTM0NzAsLTIzNDYzNDM4MF19
+eyJoaXN0b3J5IjpbLTIxMzI5MTgwMDMsLTE3MzQ2MTM0NzAsLT
+IzNDYzNDM4MF19
 -->
