@@ -33,11 +33,12 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos.
  - #### Investigacion Longitudinal
    Gracias a esta epoca de facil transporte podemos realizar un estudio basado en repetidas visitas, la frencuencia nos hace ver determinadas variables
 ## La encuesta
-	 	   
+Resulta la forma mas efectiva desarrollada a lo largo del tiempo, La encuesta reune **muestreo**, **la recogida impersonal de datos**, **y el analisis estadistico**.
+ 	 	   
 	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAzODc4ODksMTE1MDcyMTYzNCwtMT
+eyJoaXN0b3J5IjpbLTE5NDcxODA4MTYsMTE1MDcyMTYzNCwtMT
 IxNTY2MDAzOSwzMDQ4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2
 ODIzLC0xNzM0NjEzNDcwLC0yMzQ2MzQzODBdfQ==
 -->
