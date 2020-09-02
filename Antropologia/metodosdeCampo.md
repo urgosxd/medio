@@ -18,10 +18,10 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos
 - #### Conversaciones y entrevistas
 	 Participar de la comunidad requiere algún esfuerzo de dominio de la lengua , si logramos dominarlo seremos capaces de participar de discusiones publicas, conversaciones importantes, aqui se encuenta la **encuesta**
 - #### Metodo Genealogico
-	Anotaciones genealogicas para conocer princios de parentesco , filiacion , matrimonio que son la **base fundamental** de las culturas no industriales , e	 
+	Anotaciones genealogicas para conocer princios de parentesco , filiacion , matrimonio que son la **base fundamental** de las culturas no industriales , en estas sociedades se dan casamientos estrategicos entre tribus,clanes etc.	 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMwNzEwMDEsMzA0ODYwNTAsMTg0Nj
+eyJoaXN0b3J5IjpbLTEyMTU2NjAwMzksMzA0ODYwNTAsMTg0Nj
 gyNzE5NSwtMTE2MzA5NjgyMywtMTczNDYxMzQ3MCwtMjM0NjM0
 MzgwXX0=
 -->
