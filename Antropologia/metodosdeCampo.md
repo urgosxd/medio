@@ -22,9 +22,11 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos.
  - #### Informantes Clave
 	 En todas las comunidas hay personas que por diversas razones, o suerte pueden brindar informacion mas completa y util sobre los aspectos importantes de la vida. 
 - #### Entrevistas en profundidad e historias de vida
-  Cuando encontramos a alguien intersesante se recoje la historia de su vida, la biografia 	 
+  Cuando encontramos a alguien intersesante se recoje la historia de su vida, la biografia nos proporciona un retrato cultural mas intimo 
+- #### Emic y Etic
+  Perspectiva  del actor "   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDY5MzU5NSwtMTIxNTY2MDAzOSwzMD
+eyJoaXN0b3J5IjpbMjA1ODg0OTk3NywtMTIxNTY2MDAzOSwzMD
 Q4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2ODIzLC0xNzM0NjEz
 NDcwLC0yMzQ2MzQzODBdfQ==
 -->
