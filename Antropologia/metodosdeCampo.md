@@ -24,9 +24,11 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos.
 - #### Entrevistas en profundidad e historias de vida
   Cuando encontramos a alguien intersesante se recoje la historia de su vida, la biografia nos proporciona un retrato cultural mas intimo 
 - #### Emic y Etic
-  Perspectiva  del actor "   	 
+   - Perspectiva  del actor "Emic" 
+   - Perspectiva del observador "Etic"
+asdasdddddd	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODg0OTk3NywtMTIxNTY2MDAzOSwzMD
+eyJoaXN0b3J5IjpbMjEzODkyOTY1MiwtMTIxNTY2MDAzOSwzMD
 Q4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2ODIzLC0xNzM0NjEz
 NDcwLC0yMzQ2MzQzODBdfQ==
 -->
