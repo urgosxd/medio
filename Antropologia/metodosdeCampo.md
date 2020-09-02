@@ -14,15 +14,17 @@ Paso a convertirse en un **campo separado** cuando los primeros antropologos via
  8. Investigacion Longitudinal
   - #### Observacion Directa
 	  Los etnografos toman importancia a los pequeños detalles de la vida cotidiana y a los mas notorios, estos siendo anotados al comienzo en un diario para que no se acostumbren y pasen desapercibidos, los objetos del estudio no son animales sin habla,
-no forma parte del plan manipularlos o inducirlos a ciertos experimentos
+no forma parte del plan manipularlos o inducirlos a ciertos experimentos.
 - #### Conversaciones y entrevistas
-	 Participar de la comunidad requiere algún esfuerzo de dominio de la lengua , si logramos dominarlo seremos capaces de participar de discusiones publicas, conversaciones importantes, aqui se encuenta la **encuesta**
+	 Participar de la comunidad requiere algún esfuerzo de dominio de la lengua , si logramos dominarlo seremos capaces de participar de discusiones publicas, conversaciones importantes, aqui se encuenta la **encuesta**.
 - #### Metodo Genealogico
 	Anotaciones genealogicas para conocer princios de parentesco , filiacion , matrimonio que son la **base fundamental** de las culturas no industriales , en estas sociedades se dan casamientos estrategicos entre tribus,clanes etc.	 
  - #### Informantes Clave
-	 En todas las comunidas hay personas que por diversas razones, o suerte pueden brindar informacion mas completa y util sobre los aspectos  
+	 En todas las comunidas hay personas que por diversas razones, o suerte pueden brindar informacion mas completa y util sobre los aspectos importantes de la vida. 
+- #### Entrevistas en profundidad e historias de vida
+  Cuando encontramos a alguien intersesante se recoje la historia de su vida, la biografia 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNTQxMzc3LC0xMjE1NjYwMDM5LDMwND
-g2MDUwLDE4NDY4MjcxOTUsLTExNjMwOTY4MjMsLTE3MzQ2MTM0
-NzAsLTIzNDYzNDM4MF19
+eyJoaXN0b3J5IjpbMTIyNDY5MzU5NSwtMTIxNTY2MDAzOSwzMD
+Q4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2ODIzLC0xNzM0NjEz
+NDcwLC0yMzQ2MzQzODBdfQ==
 -->
