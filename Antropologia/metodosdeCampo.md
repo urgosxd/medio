@@ -34,11 +34,11 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos.
    Gracias a esta epoca de facil transporte podemos realizar un estudio basado en repetidas visitas, la frencuencia nos hace ver determinadas variables
 ## La encuesta
 Resulta la forma mas efectiva desarrollada a lo largo del tiempo, La encuesta reune **muestreo**, **la recogida impersonal de datos**, **y el analisis estadistico**.
- 	 	   
+En sociedades pequeñas la encuesta llega a hacer un metodo casi personal, Las variables independientes nos ayudan a saber como piensa la gente. 	 	   
 	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcxODA4MTYsMTE1MDcyMTYzNCwtMT
-IxNTY2MDAzOSwzMDQ4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2
-ODIzLC0xNzM0NjEzNDcwLC0yMzQ2MzQzODBdfQ==
+eyJoaXN0b3J5IjpbMjE5NjM0MDU5LDExNTA3MjE2MzQsLTEyMT
+U2NjAwMzksMzA0ODYwNTAsMTg0NjgyNzE5NSwtMTE2MzA5Njgy
+MywtMTczNDYxMzQ3MCwtMjM0NjM0MzgwXX0=
 -->
