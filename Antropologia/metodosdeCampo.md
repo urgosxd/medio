@@ -12,8 +12,10 @@ Paso a convertirse en un **campo separado** cuando los primeros antropologos via
  6. Emic y Etic
  7. Etnografia centrada en el estudio de problemas Concretos
  8. Investigacion Longitudinal
-
+  - Observacion Directa
+	  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0ODYwNTAsMTg0NjgyNzE5NSwtMTE2Mz
-A5NjgyMywtMTczNDYxMzQ3MCwtMjM0NjM0MzgwXX0=
+eyJoaXN0b3J5IjpbLTEyMDIxMzUxMzAsMzA0ODYwNTAsMTg0Nj
+gyNzE5NSwtMTE2MzA5NjgyMywtMTczNDYxMzQ3MCwtMjM0NjM0
+MzgwXX0=
 -->
