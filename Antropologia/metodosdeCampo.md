@@ -41,11 +41,14 @@ Se pueden determinar 5 diferencias entre la encuesta y el etnografia:
   - Los etnografos realizan trabajos de primera mano, relaciones personales con la gente, La encuesta no produce relacion personal con los encuestados y se suele contratar ayudantes
   - Los etnografos suelen intersarce en todos los aspectos de sus vidas, el encuestador suele centrase en variables especificas
   - Normalmente la encuesta se usa en paises modernos donde la gente sabe leer y escribir, los etnografos suelen encontrarse que gente analfabeta
-  - La encuesta require un analisis estadistico, los antropologos no suelen contar con preparacion estadistica 
+  - La encuesta require un analisis estadistico, los antropologos no suelen contar con preparacion estadistica
+## Investigacion antropologica en sociedades Contemporaneas
+
+  
 	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MzM2Mjk2LDExNTA3MjE2MzQsLTEyMT
-U2NjAwMzksMzA0ODYwNTAsMTg0NjgyNzE5NSwtMTE2MzA5Njgy
-MywtMTczNDYxMzQ3MCwtMjM0NjM0MzgwXX0=
+eyJoaXN0b3J5IjpbMTI4MTI5MTExMSwxMTUwNzIxNjM0LC0xMj
+E1NjYwMDM5LDMwNDg2MDUwLDE4NDY4MjcxOTUsLTExNjMwOTY4
+MjMsLTE3MzQ2MTM0NzAsLTIzNDYzNDM4MF19
 -->
