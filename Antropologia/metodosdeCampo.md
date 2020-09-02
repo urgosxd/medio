@@ -27,10 +27,13 @@ no forma parte del plan manipularlos o inducirlos a ciertos experimentos.
    - Perspectiva  del actor "Emic"
 	   Fomenta la vision de los nativos sin prejuicios 
    - Perspectiva del observador "Etic".
-	   Reconocen que sus actores estan demasiados im
+	   Reconocen que sus actores estan demasiados implicados para darse cuenta de su imparcialidad
+ - #### Etnografia centrada en problemas Concretos
+	 Resulta imposible estudias todas las culturas y aspectos importantes, por ello los antropologos se centran en problemas en espefico	   
+	   
   	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODcxMzIzNSwtMTIxNTY2MDAzOSwzMD
-Q4NjA1MCwxODQ2ODI3MTk1LC0xMTYzMDk2ODIzLC0xNzM0NjEz
-NDcwLC0yMzQ2MzQzODBdfQ==
+eyJoaXN0b3J5IjpbLTIwMzMwNjk5OTIsLTEyMTU2NjAwMzksMz
+A0ODYwNTAsMTg0NjgyNzE5NSwtMTE2MzA5NjgyMywtMTczNDYx
+MzQ3MCwtMjM0NjM0MzgwXX0=
 -->
