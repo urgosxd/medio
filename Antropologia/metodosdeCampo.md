@@ -1,8 +1,7 @@
 # Metodos de Campo
 ## Etnografia
 
-Paso a convertirse en un **campo separado**
-cuando los primeros antropologos viajaban a tierras lejanas para estudiar pequeños grupos humanos, el estudio de primera mano a asentamientos locales se denomina **Etnografia**
+Paso a convertirse en un **campo separado** cuando los primeros antropologos viajaban a tierras lejanas para estudiar pequeños grupos humanos, el estudio de primera mano a asentamientos locales se denomina **Etnografia**
 ### Tenicas de campo
 
  1. Observacion directa
@@ -15,6 +14,6 @@ cuando los primeros antropologos viajaban a tierras lejanas para estudiar peque�
  8. Investigacion Longitudinal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMwOTY4MjMsLTE3MzQ2MTM0NzAsLT
-IzNDYzNDM4MF19
+eyJoaXN0b3J5IjpbMTg0NjgyNzE5NSwtMTE2MzA5NjgyMywtMT
+czNDYxMzQ3MCwtMjM0NjM0MzgwXX0=
 -->
