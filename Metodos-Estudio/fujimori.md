@@ -3,6 +3,8 @@
 - sunedu se crea 26 enero 2016
 - 5 de enero 2015	
 - el bachillerato era automatico
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNzM3MTI2LC0xNjQ2MTY2MDAwXX0=
+eyJoaXN0b3J5IjpbNTM4NTEzMTg1LDU3MzczNzEyNiwtMTY0Nj
+E2NjAwMF19
 -->
