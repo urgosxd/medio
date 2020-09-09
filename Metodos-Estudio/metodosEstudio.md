@@ -15,6 +15,7 @@
 * Conocimintos Previos
 
 ## Tipos de aprendizaje
+* Aprendizaje Receptivo
 * por Descubrimiento
 	* Contenido de Forma pasiva
 	* descubre Conceptos
@@ -30,7 +31,9 @@
 ## Tipos de aprendizaje
 * A Repetitivos
 * Apren significativo
+* Observacional
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDQ1MDQ3MCw5MjIwNTYwNjksLTE3Nz
-gzNDYzNzksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY2MzE0NzYxMCwtNzQ0NDUwNDcwLDkyMj
+A1NjA2OSwtMTc3ODM0NjM3OSw3MzA5OTgxMTZdfQ==
 -->
