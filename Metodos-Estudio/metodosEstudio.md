@@ -21,9 +21,12 @@
 	* Relaciona
 	* reordena
 	* adapta
-	
-* 
+* aprendizae Latente
+## Teorias 
+* Conductivismo
+* cognitivimos
+* co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMDU2MDY5LC0xNzc4MzQ2Mzc5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTUzOTg1NTk0OCw5MjIwNTYwNjksLTE3Nz
+gzNDYzNzksNzMwOTk4MTE2XX0=
 -->
