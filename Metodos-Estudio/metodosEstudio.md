@@ -27,8 +27,10 @@
 * cognitivimos
 * constructivosmo
 * neurociencia
-* 
+## Tipos de aprendizaje
+* A Repetitivos
+* Apren significativo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDI0NTUyMSw5MjIwNTYwNjksLTE3Nz
+eyJoaXN0b3J5IjpbLTc0NDQ1MDQ3MCw5MjIwNTYwNjksLTE3Nz
 gzNDYzNzksNzMwOTk4MTE2XX0=
 -->
