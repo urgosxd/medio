@@ -25,8 +25,10 @@
 ## Teorias 
 * Conductivismo
 * cognitivimos
-* co
+* constructivosmo
+* neurociencia
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTg1NTk0OCw5MjIwNTYwNjksLTE3Nz
+eyJoaXN0b3J5IjpbMTAwNDI0NTUyMSw5MjIwNTYwNjksLTE3Nz
 gzNDYzNzksNzMwOTk4MTE2XX0=
 -->
