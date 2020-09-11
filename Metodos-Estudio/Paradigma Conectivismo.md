@@ -13,6 +13,12 @@
 * las mismas herramientas
 * sistema Colaborativo
 * el conociemiento le peretenece a todos
+## Roles PRofesor
+* incentivar investigacion
+* motivar al estudiante
+* generar espiritu critico
+* fomentar la solucion de problemas
+* vincularse a la tecnologia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MjMwMTg5XX0=
+eyJoaXN0b3J5IjpbMjA4ODc2NzIxM119
 -->
