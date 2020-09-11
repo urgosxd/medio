@@ -5,7 +5,8 @@
 ## Es dinamico
 * ensamblea
 * extiende
-* 
+* restaura
+* interpreta
 ## explica
 * conocimiento Previos
 
@@ -13,5 +14,5 @@
 * piaget constructivismo Psicologico
 * Vygotsky construtivismo Social
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ5NzIxMDAsLTk5MzM4OTkwMV19
+eyJoaXN0b3J5IjpbLTE4NzA5OTY2MjUsLTk5MzM4OTkwMV19
 -->
