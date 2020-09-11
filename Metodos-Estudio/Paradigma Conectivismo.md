@@ -6,7 +6,10 @@
 * como nos comunicamos
 * como aprendemos
 * aprendizaje humano por internet redes soiales
-%
+## Como se aprende
+* no solo es conocmiento
+* aprendizaje con tecnologia
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNTUzNjU2XX0=
+eyJoaXN0b3J5IjpbODAzOTMwMTk2XX0=
 -->
