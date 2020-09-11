@@ -1,7 +1,9 @@
+## explica
+* conocimiento Previos
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+## Mayores Representantes
+* piaget constructivismo Psicologico
+* Vygotsky construtivismo Social
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk5MzM4OTkwMV19
 -->
