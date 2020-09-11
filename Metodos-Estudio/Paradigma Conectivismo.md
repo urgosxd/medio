@@ -9,7 +9,10 @@
 ## Como se aprende
 * no solo es conocmiento
 * aprendizaje con tecnologia
-* 
+## Como se enseña
+* las mismas herramientas
+* sistema Colaborativo
+* el conociemiento le peretenece a todos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzOTMwMTk2XX0=
+eyJoaXN0b3J5IjpbODU2MjMwMTg5XX0=
 -->
