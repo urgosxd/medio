@@ -19,6 +19,10 @@
 * generar espiritu critico
 * fomentar la solucion de problemas
 * vincularse a la tecnologia
+## ROLes ALumno
+* autoparendizaje
+* definir lo que se quiere aprender
+* ser Colaborativo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODc2NzIxM119
+eyJoaXN0b3J5IjpbLTgyMTg2MTQ5MCwyMDg4NzY3MjEzXX0=
 -->
