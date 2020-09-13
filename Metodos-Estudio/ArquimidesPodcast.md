@@ -7,8 +7,8 @@ que se encontraba en una cuestion acerca de la pureza de su corona
 **Rey**: Escucha Arquimides , necesito tener la certeza de que mi corona es pura, y no una aleacion barata, Podriamos fundirla pero me quedaria sin ella.
 **Narrador**: EL orfebre interrumpe al rey con voz disuasiva
 **Orfebre**: Mi rey llevo trabajando toda mi vida para usted, nunca tuvo queja de mi pero hace llamar a este charlatan para desgracia mia.
-
+**Rey**:Silencio, Arquimedes te doy un par de dias para encontrar respuesta a mi p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDQzNTI0MF19
+eyJoaXN0b3J5IjpbMTk2ODU0NjkwOCwyMTIwNDM1MjQwXX0=
 -->
