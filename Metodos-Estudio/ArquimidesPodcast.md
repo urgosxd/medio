@@ -13,8 +13,8 @@ que se encontraba en una cuestion acerca de la pureza de su corona
 Ante tal descubrimiento salio de la bañera completamente desnudo gritando
 **Arqumides**.Eureka! Eureka! Lo he encontrado. Lo he encontrado!
 **Narrador**: Arquimides se presento de inmediato ante el rey quien le pidio la explicacion:
-**Arquimides**: Mi rey, en las bañeras se pude dilucidar la verdad, podemos undir las coronas y las onzas de 
+**Arquimides**: Mi rey, en las bañeras se pude dilucidar la verdad, podemos undir las coronas y las onzas de oro simultaneamente, si el caudal en lpara ver si tienen el mismo volumen, y is eso no es suficiente podemos calcular la densidad de cada uno y compararlos asi sabremos si la corona es pura o no.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTcwMjk3MSwyMTIwNDM1MjQwXX0=
+eyJoaXN0b3J5IjpbMzk1MjU4OTQ4LDIxMjA0MzUyNDBdfQ==
 -->
