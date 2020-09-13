@@ -11,8 +11,9 @@ que se encontraba en una cuestion acerca de la pureza de su corona
 **Arquimedes**: Asi sera Majestad.
 **Narrador**: Y asi Arquimides paso sus dias investigando sin hallar respuesta, asi que decidio ir a despejar la mente a los baños de la ciudad. Al sumergirse noto que la cantidad de agua que rebalsaba seria igual a su volumen.
 Ante tal descubrimiento salio de la bañera completamente desnudo gritando
-**Arqumides**.Eureka! E
+**Arqumides**.Eureka! Eureka! Lo he encontrado. Lo he encontrado!
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5OTkxMTEsMjEyMDQzNTI0MF19
+eyJoaXN0b3J5IjpbMTA5MzQ4NTQ4MywyMTIwNDM1MjQwXX0=
 -->
