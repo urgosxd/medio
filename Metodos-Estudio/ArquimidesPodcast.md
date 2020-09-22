@@ -8,6 +8,7 @@ que se encontraba en una cuestion acerca de la pureza de su corona
 *sonido de sillon, mueble*
 **Rey**: Escucha Arquimides , necesito tener la certeza de que mi corona es pura, y no una aleacion barata, Podriamos fundirla pero me quedaria sin ella.
 **Narrador**: EL orfebre interrumpe al rey con voz disuasiva
+*umhmmmmmm*
 **Orfebre**: Mi rey llevo trabajando toda mi vida para usted, nunca tuvo queja de mi pero hace llamar a este charlatan para desgracia mia.
 **Rey**:Silencio, Arquimedes te doy un par de dias para encontrar respuesta a mi pregunta.
 **Arquimedes**: Asi sera Majestad.
@@ -19,7 +20,7 @@ Ante tal descubrimiento salio de la bañera completamente desnudo gritando
 **Narrador**: Realizandose el experimento el resulto fue  que la corona no era de oro puro, y se fue Arquimides recibiendo honores del rey y en cambio pereciendo el orfebre.
 Gracias a esto Arquimides descubrio el principio que lleva su nombre.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM3MDA1MzcsLTU5NDI3NjUxNSw5OT
-A1MDkyOTksMjI4ODQ0Mzg1LC0yMDU0NDgyMDU2LDIxMjA0MzUy
-NDBdfQ==
+eyJoaXN0b3J5IjpbMTQ4Mzc1MzQxMywtMjEwMzcwMDUzNywtNT
+k0Mjc2NTE1LDk5MDUwOTI5OSwyMjg4NDQzODUsLTIwNTQ0ODIw
+NTYsMjEyMDQzNTI0MF19
 -->
