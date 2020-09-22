@@ -16,12 +16,14 @@ que se encontraba en una cuestion acerca de la pureza de su corona
 Ante tal descubrimiento salio de la bañera completamente desnudo gritando
 *Glup glup glup*
 **Arqumides**.Eureka! Eureka! Lo encontre. Lo encontre.
+*Aplausos x5 murmuraciones*
 **Narrador**: Arquimides se presento de inmediato ante el rey quien le pidio la explicacion:
 **Arquimides**: Mi rey, en las bañeras se pude dilucidar la verdad, podemos undir las coronas y las onzas de oro simultaneamente, si el caudal en los 2 casos es el mismo tienen el mismo volumen, y si eso no es suficiente podemos calcular la densidad de cada uno y compararlos asi sabremos si la corona es pura o no.
 **Narrador**: Realizandose el experimento el resulto fue  que la corona no era de oro puro, y se fue Arquimides recibiendo honores del rey y en cambio pereciendo el orfebre.
 Gracias a esto Arquimides descubrio el principio que lleva su nombre.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgyMjQ3NDIsMTQ4Mzc1MzQxMywtMj
-EwMzcwMDUzNywtNTk0Mjc2NTE1LDk5MDUwOTI5OSwyMjg4NDQz
-ODUsLTIwNTQ0ODIwNTYsMjEyMDQzNTI0MF19
+eyJoaXN0b3J5IjpbMTM0NTE2NTAwMSwtMTQ1ODIyNDc0MiwxND
+gzNzUzNDEzLC0yMTAzNzAwNTM3LC01OTQyNzY1MTUsOTkwNTA5
+Mjk5LDIyODg0NDM4NSwtMjA1NDQ4MjA1NiwyMTIwNDM1MjQwXX
+0=
 -->
