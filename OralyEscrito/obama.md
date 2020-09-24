@@ -13,7 +13,9 @@ Parecia que habian llegado a la meta pero solo era el comienzo, comensaba un may
 **¿Por qué nombra a Ann Nixon Cooper? ¿qué tiene que ver ella en esa elección?**
 Una mujer afroamericana con 106 años que practicamente habia vivido el pasar de muchas eras, habia visto las dos caras de la moneda de USA , la discriminacion, las guerras, la inclusion, la paz, el primer presidente Afroamericano
 **¿Cuál el verdadero sentido de la frase “Yes we cam”?**
-La gente en todo el mundo ya no veia a USA como superpotencia, La gente habia perdido el sueño Americano, El partido democrata era ampliamente criticado, 
+La gente en todo el mundo ya no veia a USA como superpotencia, La gente habia perdido el sueño Americano, El partido democrata era ampliamente criticado, nadie confiaba en ellos, pero siempre tenian la esperanza que si se puede
+**El discurso de Obama cumple con las características de la Comunicación Efectiva ¿Por qué?**
+Si, porque mas que una agradabla charla con el publico. obama sabe como manejar las emociones y el furor de las masas, me parece un execelente orad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDU5MDAzNl19
+eyJoaXN0b3J5IjpbOTU2Mzg4Mjk3XX0=
 -->
