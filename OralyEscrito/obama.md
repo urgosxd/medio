@@ -7,7 +7,11 @@ obama habia ganado las elecciones y era su primer discurso como presidente elect
 Era el gobierno del lado progresista de USA 
 gobierno inclusivo, con todos los grupos minoritarios que porfin habia conseguido triunfar el partido democrata , las minorias porfin tendrian voz
 **¿Por qué Obama saluda al senador McCain y la gobernadora Palin? ¿Cuál es el efecto de llamar “mi mejor amiga” a su esposa Michelle?**
-Porque era una forma cordial, de pedir apoyo a sus enemigos de camapaña, que las elecciones habian terminado y que tenian que unir fuerzas para una buena gestion, reconoce que su mujer mas que solo cumplir el rol matrimonial habia
+Porque era una forma cordial, de pedir apoyo a sus enemigos de camapaña, que las elecciones habian terminado y que tenian que unir fuerzas para una buena gestion, reconoce que su mujer mas que solo cumplir el rol matrimonial habia sido de mucha ayuda en la campaña
+**¿A qué se refiere Obama con la frase “Esta victoria en sí misma no es el cambio que buscamos. Es sólo la oportunidad para que hagamos ese cambio.”?**
+Parecia que habian llegado a la meta pero solo era el comienzo, comensaba un mayor reto para el equipo del presidente obama
+**¿Por qué nombra a Ann Nixon Cooper? ¿qué tiene que ver ella en esa elección?**
+Una mujer afroamericana con 106 años que practicamente habia vivido el pasar de muchas eras, habia vi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzczNjQ1NF19
+eyJoaXN0b3J5IjpbNjU1MzAwNzRdfQ==
 -->
