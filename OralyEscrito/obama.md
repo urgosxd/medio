@@ -11,7 +11,9 @@ Porque era una forma cordial, de pedir apoyo a sus enemigos de camapaña, que la
 **¿A qué se refiere Obama con la frase “Esta victoria en sí misma no es el cambio que buscamos. Es sólo la oportunidad para que hagamos ese cambio.”?**
 Parecia que habian llegado a la meta pero solo era el comienzo, comensaba un mayor reto para el equipo del presidente obama
 **¿Por qué nombra a Ann Nixon Cooper? ¿qué tiene que ver ella en esa elección?**
-Una mujer afroamericana con 106 años que practicamente habia vivido el pasar de muchas eras, habia vi
+Una mujer afroamericana con 106 años que practicamente habia vivido el pasar de muchas eras, habia visto las dos caras de la moneda de USA , la discriminacion, las guerras, la inclusion, la paz, el primer presidente Afroamericano
+**¿Cuál el verdadero sentido de la frase “Yes we cam”?**
+La gente en todo el mundo ya no veia a USA como superpotencia, La gente habia perdido el sueño Americano, El partido democrata era ampliamente criticado, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MzAwNzRdfQ==
+eyJoaXN0b3J5IjpbLTQxMDU5MDAzNl19
 -->
