@@ -11,7 +11,9 @@ Pienso que se refiere a la epoca de emancipacion Colonial cuando negros, y blanc
 Como la pregunta anterior, el autor Martin Luther King reclama legalmente la libertad de negros, y entre lineas nos dice como hoy se sigue viviendo diferentes formas de racismo,
 repondiendo a la pregunta ¿Algun dia estaran satisfechos?
 #### ¿Qué es un movimiento de derechos civiles?
-Es
+Es un grupo donde se pelean por hacer cumplir o crear derechos generalmente de minorias o grupos menos representantes.
+#### ¿Cuál es la idea más importante del discurso?
+Todavia el negro lleva grilletes de discriminacion y desigualdad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODE4MTQ4MSwxMTYwODIyMzM2XX0=
+eyJoaXN0b3J5IjpbMTQ5NDMwODQ3MSwxMTYwODIyMzM2XX0=
 -->
