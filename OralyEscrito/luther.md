@@ -16,7 +16,9 @@ Es un grupo donde se pelean por hacer cumplir o crear derechos generalmente de m
 Todavia el negro lleva grilletes de discriminacion y desigualdad.
 #### ¿A qué se refiere Luther King con I have a dream?
 Refleja el deseo de poder ver unos Estados Unidos Americanos libres de racismo donde todos pueden vivir con los mismos derechos.
-
+Un pais de inmigrantes de todas partes que decidieron formar una Nacion Gloriosa donde se predica la Democracia y Igualdad
+### Después
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5MzM2NjkwLDExNjA4MjIzMzZdfQ==
+eyJoaXN0b3J5IjpbODk5OTAyODQzLDExNjA4MjIzMzZdfQ==
 -->
