@@ -14,6 +14,9 @@ repondiendo a la pregunta ¿Algun dia estaran satisfechos?
 Es un grupo donde se pelean por hacer cumplir o crear derechos generalmente de minorias o grupos menos representantes.
 #### ¿Cuál es la idea más importante del discurso?
 Todavia el negro lleva grilletes de discriminacion y desigualdad.
+#### ¿A qué se refiere Luther King con I have a dream?
+Refleja el deseo de poder ver unos Estados Unidos Americanos libres de racismo donde todos pueden vivir con los mismos derechos.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDMwODQ3MSwxMTYwODIyMzM2XX0=
+eyJoaXN0b3J5IjpbOTE5MzM2NjkwLDExNjA4MjIzMzZdfQ==
 -->
