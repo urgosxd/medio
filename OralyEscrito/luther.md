@@ -21,7 +21,7 @@ Un pais de inmigrantes de todas partes que decidieron formar una Nacion Gloriosa
 #### ¿Qué has aprendido?
 Que en pleno siglo 21 todavia hay racismo, y alla en los 60 el racismo era aun peor, felismente gracias a tipo como el ha disminuido y estamos viendo como se cumple el sueño de Martin  Luther King
 #### ¿Qué opinas del discurso?
-Un discurso muy interesante, como una persona en esos tiempos puedo hacer un discurso tan crudo y realista, tan critico y de
+Un discurso muy interesante, como una persona en esos tiempos puedo hacer un discurso tan crudo y realista, tan critico y denunciante, muy duro para la epoca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTYwODg3NywxMTYwODIyMzM2XX0=
+eyJoaXN0b3J5IjpbLTIyNDU0OTE5NiwxMTYwODIyMzM2XX0=
 -->
