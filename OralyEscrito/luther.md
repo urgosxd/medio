@@ -18,7 +18,8 @@ Todavia el negro lleva grilletes de discriminacion y desigualdad.
 Refleja el deseo de poder ver unos Estados Unidos Americanos libres de racismo donde todos pueden vivir con los mismos derechos.
 Un pais de inmigrantes de todas partes que decidieron formar una Nacion Gloriosa donde se predica la Democracia y Igualdad
 ### Después
-###
+#### ¿Qué has aprendido?
+Que en pleno siglo 21 todavia hay racismo, y alla en los 60 el racismo era aun peor, felismente gracias a tipo como el ha disminuido y estamos viendo como se cumple el sueño de Martin  Luther King
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5OTAyODQzLDExNjA4MjIzMzZdfQ==
+eyJoaXN0b3J5IjpbMTk2NjM2NzgyLDExNjA4MjIzMzZdfQ==
 -->
