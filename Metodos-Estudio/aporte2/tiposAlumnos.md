@@ -1,4 +1,5 @@
-# asd
+# 
+david coll
 ### estudiante Activo
 ### estudiante Reflexivo
 ### estudiante Teorico
@@ -8,5 +9,6 @@
 ### estudiante Pracmatico
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNTUwNTc4LC0xODIzNDIzMzgxXX0=
+eyJoaXN0b3J5IjpbLTEyMzI4MTMxMjAsNDExNTUwNTc4LC0xOD
+IzNDIzMzgxXX0=
 -->
