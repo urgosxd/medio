@@ -2,6 +2,10 @@
 * david colb
 * aprendizaje experimental
 ### estudiante Activo
+* le gusta actividdes cortas
+* no les gusta hacer solos
+
+
 ### estudiante Reflexivo
 * timido no le gusta sobresalir
 * 
@@ -12,6 +16,6 @@
 ### estudiante Pracmatico
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAzNDA4NDcsNTc2Mjc1NTI3LDQxMT
-U1MDU3OCwtMTgyMzQyMzM4MV19
+eyJoaXN0b3J5IjpbNTgzMDA4NjI0LC0yMDYwMzQwODQ3LDU3Nj
+I3NTUyNyw0MTE1NTA1NzgsLTE4MjM0MjMzODFdfQ==
 -->
