@@ -3,6 +3,8 @@
 * aprendizaje experimental
 ### estudiante Activo
 ### estudiante Reflexivo
+* timido no le gusta sobresalir
+* 
 ### estudiante Teorico
 * su pensamiento es secuencial
 * Valores en funcion de su Racionalidad
@@ -10,6 +12,6 @@
 ### estudiante Pracmatico
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQzNDc1MzMsNDExNTUwNTc4LC0xOD
-IzNDIzMzgxXX0=
+eyJoaXN0b3J5IjpbNTc2Mjc1NTI3LDQxMTU1MDU3OCwtMTgyMz
+QyMzM4MV19
 -->
