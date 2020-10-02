@@ -1,5 +1,5 @@
 # 
-* david coll
+* david colb
 * aprendizaje experimental
 ### estudiante Activo
 ### estudiante Reflexivo
@@ -12,6 +12,6 @@
 ### estudiante Pracmatico
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2Mjc1NTI3LDQxMTU1MDU3OCwtMTgyMz
-QyMzM4MV19
+eyJoaXN0b3J5IjpbLTIwNjAzNDA4NDcsNTc2Mjc1NTI3LDQxMT
+U1MDU3OCwtMTgyMzQyMzM4MV19
 -->
