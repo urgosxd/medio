@@ -13,9 +13,10 @@
 * su pensamiento es secuencial
 * Valores en funcion de su Racionalidad
 * Le gustan los desafios justificados 
+* le gust
 ### estudiante Pracmatico
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMDA4NjI0LC0yMDYwMzQwODQ3LDU3Nj
-I3NTUyNyw0MTE1NTA1NzgsLTE4MjM0MjMzODFdfQ==
+eyJoaXN0b3J5IjpbMTkyNDcwMzYwMiwtMjA2MDM0MDg0Nyw1Nz
+YyNzU1MjcsNDExNTUwNTc4LC0xODIzNDIzMzgxXX0=
 -->
