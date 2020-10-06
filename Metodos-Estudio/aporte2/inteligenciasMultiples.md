@@ -18,7 +18,10 @@
 * mentes Flexibes
 * mentes Extraordinarias
 * Mentes Lideres
+### Influencias
+* Jerome Bruner}
+* Erik Erikson
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA3ODk1ODIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTI5NjY4OTAxNSw3MzA5OTgxMTZdfQ==
 -->
