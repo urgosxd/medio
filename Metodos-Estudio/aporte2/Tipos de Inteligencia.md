@@ -5,6 +5,8 @@
 * Organizar
 ### Inteligencia Musical
 ### Inteligencia Corporal
+### Inteligencia Linguistica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA2NDMyODRdfQ==
+eyJoaXN0b3J5IjpbLTEzODY1NjY0MjksLTE4NDA2NDMyODRdfQ
+==
 -->
