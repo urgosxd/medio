@@ -6,7 +6,9 @@
 ### Inteligencia Musical
 ### Inteligencia Corporal
 ### Inteligencia Linguistica
+### Inteligencia Naturalista
+### Inteligencia Matematica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY1NjY0MjksLTE4NDA2NDMyODRdfQ
-==
+eyJoaXN0b3J5IjpbMTkwNzkwMjA3OSwtMTM4NjU2NjQyOSwtMT
+g0MDY0MzI4NF19
 -->
