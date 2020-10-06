@@ -11,7 +11,11 @@
 * Lectura
 * Tocar Piano
 ### Obras
-* Intelig 
+* Inteligencias Multiples
+* Mentes creativas
+* mentes Flexibes
+* mentes Extraordinarias
+* Mentes Lideres
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjI0MjA1OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk1NjM5MTI4NCw3MzA5OTgxMTZdfQ==
 -->
