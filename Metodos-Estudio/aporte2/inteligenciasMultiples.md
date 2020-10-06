@@ -1,6 +1,7 @@
 
 
 # InteligenciasMultiples
+howard gar
 * nacio 11 julio 1943 
 * Scraton-Pelsilvania
 * cambios en el Sistema Educativo
@@ -23,5 +24,5 @@
 * Erik Erikson
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjY4OTAxNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTYyNzU1MzE5NCw3MzA5OTgxMTZdfQ==
 -->
