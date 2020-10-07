@@ -9,7 +9,7 @@ howard gardner
 ### Formacion
 * Psicologo
 * Pedagogo
-* Doctoro 1971
+* Doctorado 1971
 ### Niñez
 * Lectura
 * Tocar Piano
@@ -24,5 +24,6 @@ howard gardner
 * Erik Erikson
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzk2NTk2NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzEzMjM2MjcyLDE5MDM5NjU5NjUsNzMwOT
+k4MTE2XX0=
 -->
