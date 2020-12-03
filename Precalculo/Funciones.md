@@ -11,14 +11,14 @@ $$
 a=2 \\ b=-8 \\ c=6
 $$
 $$Function \quad \textbf{Vertice} = \\
-V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F\left(\frac{-b} {2a}\right)}_{y} \right)  
+V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F(x)} _{y} \right)  
 $$
 
 $$
-V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F\left(\frac{-b} {2a}\right)}_{y} \right)  $$
+V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F\left(\frac{-b} {2a}\right)}_{y} \
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjMwNjc0MywxOTQxNTQxNDg4LDExMT
-YzMzI2OTEsLTQwNTA0Mjc0NiwtMTc2MzAyMzI4Niw2MjgwMjc3
-NDksMTgzOTQ1MTQ3OSwtMTY2OTExMTMzOCwxMTEzNDY0MjMyLD
-U1MzIzMTg2NiwxMjc3MjYyNTY4XX0=
+eyJoaXN0b3J5IjpbOTQ5MjE2NTEzLDE1OTYzMDY3NDMsMTk0MT
+U0MTQ4OCwxMTE2MzMyNjkxLC00MDUwNDI3NDYsLTE3NjMwMjMy
+ODYsNjI4MDI3NzQ5LDE4Mzk0NTE0NzksLTE2NjkxMTEzMzgsMT
+ExMzQ2NDIzMiw1NTMyMzE4NjYsMTI3NzI2MjU2OF19
 -->
