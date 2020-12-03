@@ -19,9 +19,12 @@ $$
  $$
 V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F(x)} _{y} \right)  
 $$
+$$
+\frac{-b} {2a}=\ 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTIxOTUzMiwxNTk2MzA2NzQzLDE5ND
-E1NDE0ODgsMTExNjMzMjY5MSwtNDA1MDQyNzQ2LC0xNzYzMDIz
-Mjg2LDYyODAyNzc0OSwxODM5NDUxNDc5LC0xNjY5MTExMzM4LD
-ExMTM0NjQyMzIsNTUzMjMxODY2LDEyNzcyNjI1NjhdfQ==
+eyJoaXN0b3J5IjpbLTEwNDc0ODA3NjksMTU5NjMwNjc0MywxOT
+QxNTQxNDg4LDExMTYzMzI2OTEsLTQwNTA0Mjc0NiwtMTc2MzAy
+MzI4Niw2MjgwMjc3NDksMTgzOTQ1MTQ3OSwtMTY2OTExMTMzOC
+wxMTEzNDY0MjMyLDU1MzIzMTg2NiwxMjc3MjYyNTY4XX0=
 -->
