@@ -20,13 +20,12 @@ $$
 V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F(x)} _{y} \right)  
 $$
 $$
-\frac{-b} {2a} = \frac{8} {4} = \underbrace{2}_{x} \\ 
-\\
+\frac{-b} {2a} = \frac{8} {4} = \underbrace{2}_{x}\
 y=2\centerdot 2^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjM4MTY2LDE1OTYzMDY3NDMsMTk0MT
-U0MTQ4OCwxMTE2MzMyNjkxLC00MDUwNDI3NDYsLTE3NjMwMjMy
-ODYsNjI4MDI3NzQ5LDE4Mzk0NTE0NzksLTE2NjkxMTEzMzgsMT
-ExMzQ2NDIzMiw1NTMyMzE4NjYsMTI3NzI2MjU2OF19
+eyJoaXN0b3J5IjpbLTQ0MTMwNzM1MiwxNTk2MzA2NzQzLDE5ND
+E1NDE0ODgsMTExNjMzMjY5MSwtNDA1MDQyNzQ2LC0xNzYzMDIz
+Mjg2LDYyODAyNzc0OSwxODM5NDUxNDc5LC0xNjY5MTExMzM4LD
+ExMTM0NjQyMzIsNTUzMjMxODY2LDEyNzcyNjI1NjhdfQ==
 -->
