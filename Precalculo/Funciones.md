@@ -21,11 +21,11 @@ V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F(x)} _{y} \right)
 $$
 $$
 \frac{-b} {2a} = \frac{8} {4} = \underbrace{2}_{x} \\
-
+y=2\centerdot 2^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTk0NzczNiwxNTk2MzA2NzQzLDE5ND
-E1NDE0ODgsMTExNjMzMjY5MSwtNDA1MDQyNzQ2LC0xNzYzMDIz
-Mjg2LDYyODAyNzc0OSwxODM5NDUxNDc5LC0xNjY5MTExMzM4LD
-ExMTM0NjQyMzIsNTUzMjMxODY2LDEyNzcyNjI1NjhdfQ==
+eyJoaXN0b3J5IjpbMzE1MDU4NjY4LDE1OTYzMDY3NDMsMTk0MT
+U0MTQ4OCwxMTE2MzMyNjkxLC00MDUwNDI3NDYsLTE3NjMwMjMy
+ODYsNjI4MDI3NzQ5LDE4Mzk0NTE0NzksLTE2NjkxMTEzMzgsMT
+ExMzQ2NDIzMiw1NTMyMzE4NjYsMTI3NzI2MjU2OF19
 -->
