@@ -11,11 +11,12 @@ $$
 a=2 \\ b=-8 \\ c=6
 $$
 $$Function  V = \\
-V
+V \left(\frac{-b} {} \right) 
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTQ1MTQ3OSwtMTY2OTExMTMzOCwxMT
-EzNDY0MjMyLDU1MzIzMTg2NiwxMjc3MjYyNTY4XX0=
+eyJoaXN0b3J5IjpbMTkxNzY2NDI0OCwxODM5NDUxNDc5LC0xNj
+Y5MTExMzM4LDExMTM0NjQyMzIsNTUzMjMxODY2LDEyNzcyNjI1
+NjhdfQ==
 -->
