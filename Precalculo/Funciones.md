@@ -4,7 +4,8 @@ Relaciones que dependen de una cantidad.
 $$ V = f(r, h) = \pi r^2h$$
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjkxMTEzMzgsMTExMzQ2NDIzMiw1NT
-MyMzE4NjYsMTI3NzI2MjU2OF19
+eyJoaXN0b3J5IjpbNDAzOTEzMDAsLTE2NjkxMTEzMzgsMTExMz
+Q2NDIzMiw1NTMyMzE4NjYsMTI3NzI2MjU2OF19
 -->
