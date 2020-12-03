@@ -14,11 +14,11 @@ $$Function \quad \textbf{Vertice} = \\
 V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F\left(\frac{-b} {2a}\right)}_{y} \right)  
 $$
 
-$$Function \quad \textbf{Vertice} = \\
+$$
 V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F\left(\frac{-b} {2a}\right)}_{y} \right)  $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAyNjkzMTQsMTk0MTU0MTQ4OCwxMT
-E2MzMyNjkxLC00MDUwNDI3NDYsLTE3NjMwMjMyODYsNjI4MDI3
-NzQ5LDE4Mzk0NTE0NzksLTE2NjkxMTEzMzgsMTExMzQ2NDIzMi
-w1NTMyMzE4NjYsMTI3NzI2MjU2OF19
+eyJoaXN0b3J5IjpbMTU5NjMwNjc0MywxOTQxNTQxNDg4LDExMT
+YzMzI2OTEsLTQwNTA0Mjc0NiwtMTc2MzAyMzI4Niw2MjgwMjc3
+NDksMTgzOTQ1MTQ3OSwtMTY2OTExMTMzOCwxMTEzNDY0MjMyLD
+U1MzIzMTg2NiwxMjc3MjYyNTY4XX0=
 -->
