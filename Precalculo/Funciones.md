@@ -11,12 +11,12 @@ $$
 a=2 \\ b=-8 \\ c=6
 $$
 $$Function  V = \\
-V \left(\frac{-b} {2a}, F\left\frac{} {} \right) 
+V \left(\frac{-b} {2a}, F\left(\frac{-b} {2a}\right) \right) 
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NDM0MTI2LDE4Mzk0NTE0NzksLTE2Nj
+eyJoaXN0b3J5IjpbNjI4MDI3NzQ5LDE4Mzk0NTE0NzksLTE2Nj
 kxMTEzMzgsMTExMzQ2NDIzMiw1NTMyMzE4NjYsMTI3NzI2MjU2
 OF19
 -->
