@@ -10,6 +10,8 @@ Asignamos:
 $$
 a=2 \\ b=-8 \\ c=6
 $$
+
+**Función Vértice de la parabola**
 $$
 V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F(x)} _{y} \right)  
 $$
@@ -18,8 +20,8 @@ $$
 V \left(\underbrace{\frac{-b} {2a}}_{x} , \underbrace{F(x)} _{y} \right)  
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk0NDk3NzYsMTU5NjMwNjc0MywxOT
-QxNTQxNDg4LDExMTYzMzI2OTEsLTQwNTA0Mjc0NiwtMTc2MzAy
-MzI4Niw2MjgwMjc3NDksMTgzOTQ1MTQ3OSwtMTY2OTExMTMzOC
-wxMTEzNDY0MjMyLDU1MzIzMTg2NiwxMjc3MjYyNTY4XX0=
+eyJoaXN0b3J5IjpbMTEyNTIxOTUzMiwxNTk2MzA2NzQzLDE5ND
+E1NDE0ODgsMTExNjMzMjY5MSwtNDA1MDQyNzQ2LC0xNzYzMDIz
+Mjg2LDYyODAyNzc0OSwxODM5NDUxNDc5LC0xNjY5MTExMzM4LD
+ExMTM0NjQyMzIsNTUzMjMxODY2LDEyNzcyNjI1NjhdfQ==
 -->
