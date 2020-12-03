@@ -28,9 +28,11 @@ y=2\centerdot 4-16 +6\\
 y=-2
 $$
 Por lo tanto tenemos:
-$$$$
+$$
+V(2,-2)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTk5NjI4MywxNTk2MzA2NzQzLDE5ND
+eyJoaXN0b3J5IjpbMTg0MTI3NjUxMywxNTk2MzA2NzQzLDE5ND
 E1NDE0ODgsMTExNjMzMjY5MSwtNDA1MDQyNzQ2LC0xNzYzMDIz
 Mjg2LDYyODAyNzc0OSwxODM5NDUxNDc5LC0xNjY5MTExMzM4LD
 ExMTM0NjQyMzIsNTUzMjMxODY2LDEyNzcyNjI1NjhdfQ==
