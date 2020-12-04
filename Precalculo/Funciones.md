@@ -32,9 +32,9 @@ $$
 V(2,-2)
 $$
 
-$$ V \left(\underbrace{8}_{x},\underbrace{70}_{y}\right)$$
+$$ V \left(\underbrace{2}_{x},\underbrace{-2}_{y}\right)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzM4Mzc5MywxODQxMjc2NTEzLDE1OT
+eyJoaXN0b3J5IjpbLTQ5NzIxMDMzNSwxODQxMjc2NTEzLDE1OT
 YzMDY3NDMsMTk0MTU0MTQ4OCwxMTE2MzMyNjkxLC00MDUwNDI3
 NDYsLTE3NjMwMjMyODYsNjI4MDI3NzQ5LDE4Mzk0NTE0NzksLT
 E2NjkxMTEzMzgsMTExMzQ2NDIzMiw1NTMyMzE4NjYsMTI3NzI2
