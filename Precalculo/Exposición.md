@@ -1,5 +1,5 @@
 # Interés Conpuesto
-Anhelo junto a sus amigos invirtieron en un carrito sanguchero, generando un interés mensual
+Anhelo junto a sus amigos invirtieron en la Caja Municipal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDEzNjI0MV19
+eyJoaXN0b3J5IjpbMTgxMzQwMjY2MiwtNzgwMTM2MjQxXX0=
 -->
