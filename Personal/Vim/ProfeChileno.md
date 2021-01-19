@@ -1,6 +1,7 @@
 # Shorcouts Vim
 ## Dezplazamiento
-**Dezplasamiento basico** 
+**Dezplasamiento basico** : [h,j,k,l]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzMxNDEzMV19
+eyJoaXN0b3J5IjpbMjU5MTYwMTM2XX0=
 -->
