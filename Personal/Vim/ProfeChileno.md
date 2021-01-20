@@ -9,9 +9,11 @@
 **Cortar**: [Delete + p,Delete + P]
 **Rename**: [R]
 **Buscar Reemplazar**: [:s/target/reemplazo/g,:%s/target/reemplazo/gc]
+**Copy**: **Visual Mode** [+y]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMzMTkzNyw4OTc2MzE5MDIsMzE4NT
-UxNjEzLC0yMDgxNDAxNzY5LDE1Njc2NDYyNzhdfQ==
+eyJoaXN0b3J5IjpbLTE5ODcxMzY5NSwtMTA3MzMxOTM3LDg5Nz
+YzMTkwMiwzMTg1NTE2MTMsLTIwODE0MDE3NjksMTU2NzY0NjI3
+OF19
 -->
