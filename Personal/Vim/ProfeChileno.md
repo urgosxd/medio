@@ -5,8 +5,9 @@
 **Retroceser por palabra**: [b,?]
 **Cambiar palabra**:[c+w,c+i+w]
 **Delete**: **d** [+d,+Dezplasamiento Basico]
-**Salto de linea**: snjzjs
+**Salto de linea**: [g+g,G, "int"+g]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM3NjQyODQsLTIwODE0MDE3NjksMT
-U2NzY0NjI3OF19
+eyJoaXN0b3J5IjpbMzE4NTUxNjEzLC0yMDgxNDAxNzY5LDE1Nj
+c2NDYyNzhdfQ==
 -->
