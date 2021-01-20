@@ -4,8 +4,9 @@
 **Avansar por palabra**: [w,e]
 **Retroceser por palabra**: [b,?]
 **Cambiar palabra**:[c+w,c+i+w]
-**Delete**: **d*** [*+d,*+ Dezplasamiento Basico]
+**Delete**: **d*** [+d,*+ Dezplasamiento Basico]
+**Salto de Linea**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4ODk4OTE5LC0yMDgxNDAxNzY5LDE1Nj
-c2NDYyNzhdfQ==
+eyJoaXN0b3J5IjpbLTE1ODExNTU2NTYsLTIwODE0MDE3NjksMT
+U2NzY0NjI3OF19
 -->
