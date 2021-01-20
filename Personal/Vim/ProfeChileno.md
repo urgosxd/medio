@@ -7,8 +7,9 @@
 **Delete**: **d** [+d,+Dezplasamiento Basico]
 **Salto de linea**: [g+g,G, "int"+g]
 **Cortar**: [Delete + p,Delete + P]
+**Rename**: [R]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3NjMxOTAyLDMxODU1MTYxMywtMjA4MT
-QwMTc2OSwxNTY3NjQ2Mjc4XX0=
+eyJoaXN0b3J5IjpbOTU2NTc3MTU0LDg5NzYzMTkwMiwzMTg1NT
+E2MTMsLTIwODE0MDE3NjksMTU2NzY0NjI3OF19
 -->
