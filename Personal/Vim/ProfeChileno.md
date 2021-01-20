@@ -3,7 +3,8 @@
 **Dezplasamiento basico** : [h,j,k,l]
 **Avansar por palabra**: [w,e]
 **Retroceser por palabra**: [b,?]
-**Cambiar palabra**:[
+**Cambiar palabra**:[c+w,c+i+w]
+**B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MzIwODIsMTU2NzY0NjI3OF19
+eyJoaXN0b3J5IjpbLTgxMDE3NzE4NSwxNTY3NjQ2Mjc4XX0=
 -->
