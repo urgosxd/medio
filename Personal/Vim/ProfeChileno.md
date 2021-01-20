@@ -8,8 +8,9 @@
 **Salto de linea**: [g+g,G, "int"+g]
 **Cortar**: [Delete + p,Delete + P]
 **Rename**: [R]
+**Buscar Reemplazar**: [:s/target/reemplazo/g
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NTc3MTU0LDg5NzYzMTkwMiwzMTg1NT
-E2MTMsLTIwODE0MDE3NjksMTU2NzY0NjI3OF19
+eyJoaXN0b3J5IjpbLTU0NDc0Mjk1MSw4OTc2MzE5MDIsMzE4NT
+UxNjEzLC0yMDgxNDAxNzY5LDE1Njc2NDYyNzhdfQ==
 -->
