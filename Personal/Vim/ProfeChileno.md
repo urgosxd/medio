@@ -5,8 +5,8 @@
 **Retroceser por palabra**: [b,?]
 **Cambiar palabra**:[c+w,c+i+w]
 **Delete**: **d** [+d,+Dezplasamiento Basico]
-
+**Dalto de linea**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcxODEyOTMsLTIwODE0MDE3NjksMT
-U2NzY0NjI3OF19
+eyJoaXN0b3J5IjpbNjExNTAxMzI3LC0yMDgxNDAxNzY5LDE1Nj
+c2NDYyNzhdfQ==
 -->
