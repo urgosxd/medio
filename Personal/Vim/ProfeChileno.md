@@ -6,8 +6,9 @@
 **Cambiar palabra**:[c+w,c+i+w]
 **Delete**: **d** [+d,+Dezplasamiento Basico]
 **Salto de linea**: [g+g,G, "int"+g]
+**Cortar**: [Delete + p,Delete + P]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NTUxNjEzLC0yMDgxNDAxNzY5LDE1Nj
-c2NDYyNzhdfQ==
+eyJoaXN0b3J5IjpbODk3NjMxOTAyLDMxODU1MTYxMywtMjA4MT
+QwMTc2OSwxNTY3NjQ2Mjc4XX0=
 -->
