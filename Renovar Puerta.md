@@ -1,6 +1,6 @@
-# Proyecto Puerta 
+# Proyecto Puertas
 ## Materiales 
-- Tíner una botella 
+- Tíner 
 - Laca selladora una lata 
 - 2 waypes uno para pasar otro para nivelar 
 - Tinte color caoba una botella
@@ -8,5 +8,5 @@
 - Lijar puerta Shar 220 o suave 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzM0ODMwM119
+eyJoaXN0b3J5IjpbMTA3MDU3ODIyM119
 -->
