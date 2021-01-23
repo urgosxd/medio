@@ -6,7 +6,8 @@
 - Tinte color caoba una botella
 - Lijar metal 100 
 - Lijar puerta Shar 220 o suave 
+- guantes de medico
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTgwNjUyNl19
+eyJoaXN0b3J5IjpbMTc3ODkzNzI1MiwtNDkxODA2NTI2XX0=
 -->
