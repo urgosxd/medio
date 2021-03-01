@@ -1,9 +1,10 @@
 
 
 $$
-\lim _{x\to 2\:}\left(\frac{x+2}{x^2-4}\right)
+\lim _{x\to \infty \:}\left(\frac{3x^3-4x+5}{7x^4-x^3+2x-1}\right)
+\lim _{x\to \infty \:}\left(\frac{\frac{3}{x}-\frac{4}{x^3}+\frac{5}{x^4}}{7-\frac{1}{x}+\frac{2}{x^3}-\frac{1}{x^4}}\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0OTI3ODY0LDE1MzU2NjI3MjEsMTE2Nz
-E3MjA0Ml19
+eyJoaXN0b3J5IjpbMTA3ODAyOTk3Nyw3NjQ5Mjc4NjQsMTUzNT
+Y2MjcyMSwxMTY3MTcyMDQyXX0=
 -->
