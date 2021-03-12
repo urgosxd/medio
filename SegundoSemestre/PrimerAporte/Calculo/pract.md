@@ -19,8 +19,11 @@ $$
 \frac{10-\infty\sqrt{\infty}}{\infty} = -\infty
 $$
 $$
-\frac{100}{\infty^3}-1 = 
+\frac{100}{\infty^3}-1 = -1
+$$
+$$
+\frac{-\infty}{-1} = \infty
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNzIwOTA5XX0=
+eyJoaXN0b3J5IjpbLTE1Njg0NTI4MDVdfQ==
 -->
