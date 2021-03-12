@@ -14,6 +14,10 @@ Dividimos entre el mayor exponente
 $$
 \lim _{x\to \infty \:}\left(\frac{\frac{10-x\sqrt{x}}{x}}{\frac{100}{x^3}-1}\right)
 $$
+cambiamos por infinito
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODE2ODAyN119
+eyJoaXN0b3J5IjpbLTE4NDcxNzUyNDBdfQ==
 -->
