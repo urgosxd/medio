@@ -16,8 +16,11 @@ $$
 $$
 cambiamos por infinito
 $$
-
+\frac{10-\infty\sqrt{\infty}}{\infty} = -\infty
+$$
+$$
+\frac{100}{\infty^3}-1 = 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcxNzUyNDBdfQ==
+eyJoaXN0b3J5IjpbNTgyNzIwOTA5XX0=
 -->
