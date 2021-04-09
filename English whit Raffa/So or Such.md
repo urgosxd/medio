@@ -7,11 +7,12 @@ Use many and few with count nouns. Use much and little with non-count nouns.He h
 * The fire was so terrible that the building was totally destroyed
 * There are usually so many accidents that we don't travel on holiday weekends
 * The games end so late that we prefer to watch them  on TV
-* The insects are such an awful after dark that most people prefer to stay inside in the evening
+* The insects are so awful after dark that most people prefer to stay inside in the evening
 * Traffic in this region has become such a bad problem that lots of people are taking publick transportation
 * It was such an stormy day that we posponed our picnic 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI1OTc1NjYsNjM3NDA3NTc0LDEyND
-E2NTU5NjMsMTU3MTk5MTQzMCwtMjk2MjA0MjE1XX0=
+eyJoaXN0b3J5IjpbMTY3OTk0NTUyMiwtMTg4MjU5NzU2Niw2Mz
+c0MDc1NzQsMTI0MTY1NTk2MywxNTcxOTkxNDMwLC0yOTYyMDQy
+MTVdfQ==
 -->
