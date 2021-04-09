@@ -4,8 +4,9 @@ Always use a or an with a singular count noun following such. She had such a bad
 Use many and few with count nouns. Use much and little with non-count nouns.He had so many ticketsthat he lost his driver’s license. NOT He had ~~so much tickets~~ that he lost his driver’s license.
 
 ## Examples
-* The fire 
+* The fire was so terrible that the building was totally destroyed
+* There are usually so many accidentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTY1NTk2MywxNTcxOTkxNDMwLC0yOT
-YyMDQyMTVdfQ==
+eyJoaXN0b3J5IjpbNzM3NzUxNzc1LDEyNDE2NTU5NjMsMTU3MT
+k5MTQzMCwtMjk2MjA0MjE1XX0=
 -->
