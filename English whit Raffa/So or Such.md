@@ -8,9 +8,10 @@ Use many and few with count nouns. Use much and little with non-count nouns.He h
 * There are usually so many accidents that we don't travel on holiday weekends
 * The games end so late that we prefer to watch them  on TV
 * The insects are such awful after dark that most people prefer to stay inside in the evening
-* Traffic in this region has become 
+* Traffic in this region has become such a bad problem that lots of people are taking publick transportation
+* It was such a stormy day that we posponed our p 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NjM0ODkzLDYzNzQwNzU3NCwxMjQxNj
-U1OTYzLDE1NzE5OTE0MzAsLTI5NjIwNDIxNV19
+eyJoaXN0b3J5IjpbMTU1NTIxNDIxMSw2Mzc0MDc1NzQsMTI0MT
+Y1NTk2MywxNTcxOTkxNDMwLC0yOTYyMDQyMTVdfQ==
 -->
