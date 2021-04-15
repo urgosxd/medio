@@ -2,9 +2,9 @@
 
 * What I didn't care for are Adele's overly sentimental lyrics
 * What Jessica doesn't particular like is Bono's voice
-* What I'd really enjoy seing a live Lady Gaga perfomance
-
+* What I'd really enjoy seing is a live Lady Gaga perfomance
+* The song "I gotta feeling by the back eyes s really make me want to dance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NzM0MjQ1LC00OTIzODM3MzEsMTgzMz
-gzMTE5Nl19
+eyJoaXN0b3J5IjpbMTQ3MzU0MTEzNiwtNDkyMzgzNzMxLDE4Mz
+M4MzExOTZdfQ==
 -->
