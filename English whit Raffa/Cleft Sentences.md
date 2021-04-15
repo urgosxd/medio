@@ -1,7 +1,7 @@
 ## Examples
 
-* What I didn't care for Adele's overly sentimental lyrics
+* What I didn't care for Adele's overly are sentimental lyrics
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0Mzg1MTI4XX0=
+eyJoaXN0b3J5IjpbMTgzMzgzMTE5Nl19
 -->
