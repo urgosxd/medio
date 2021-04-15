@@ -21,6 +21,7 @@ Se definio 3 aspectos importantes a cumplir:
 
 Se desarrollo diferentes sistemas para complementar esto como un sistemas de mensajeria para los docentes.
 Durante el análisis y planificación de la propuesta de trabajo cooperativo se tuvieron en cuenta los siguientes aspectos: destinatarios de la actividad, criterios de selección de destinatarios, necesidad de definir sus roles, momento más conveniente para realizar la actividad, tutores que estarían involucrados, y posibles temas adecuados para abordar un trabajo en forma cooperativa.
+Destinatarios y roles: A los alumnos que habian cumplido la mayoria de las pruebas se les agrupo en 15 y se elijieron cordinad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTYxNTQyMF19
+eyJoaXN0b3J5IjpbLTkwNzg0OTQ3Nl19
 -->
