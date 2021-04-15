@@ -11,7 +11,9 @@ Esta herramiento aun se encuentra en fase de desarrollo pero ya fue probada por 
 Experiencias realizadas por la facultad de informatica de la UNLP.
 Tuvo experimentos con estudiantes de pregrado y grado, en la cual utilizaron celulares para cumplir trabajos cooperativos ademas de SMS
 
-## 3.1 El curso de pre-ingreso ala Facultad de Informatica de la 
+## 3.1 El curso de pre-ingreso ala Facultad de Informatica de la Universidad UNLP
+
+Se utilizaron celulares y SMS para el ingreso a esta universidad ademas utilizaron
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUwNDE1NDVdfQ==
+eyJoaXN0b3J5IjpbLTQzMDAxODQxNV19
 -->
