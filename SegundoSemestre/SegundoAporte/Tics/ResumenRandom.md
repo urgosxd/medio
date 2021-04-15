@@ -26,6 +26,7 @@ Temas: No se elijieron temas triviales para el exito del experimento se tomo una
 Visual Da Vinci les permite a los alumnos introducirse rápidamente en el mundo de los algoritmos, trabajar el concepto de estructuras de control, datos, módulos y parámetros.
 Problema planteado: programa al robot para que informe la cantidad total de flores que hay en la calle 30 de la ciudad. La cantidad de flores de cada esquina NO debe modificarse.
 Más allá de los grupos informales e instantáneos que se forman a través de los SMS, la integración de la telefonía celular a las propuestas educativas mediadas puede ayudar a conformar el equipo de referencia imprescindible para que logre cumplir sus objetivos. Casi podríamos entender que uno de los medios a través de los cuales podríamos acercarnos en esta distancia más transaccional que física es, sin dudas, el celular.
+4 Conclusiones En este artículo se han presentado las diferencias entre el trabajo colaborativo y cooperativo. Ambos formas de trabajo son fundamentales y hasta complementarias para una concepción social del aprendizaje. Existen diferentes herramientas que la Informática provee para lograr comunicación sincrónica y asincrónica y fortalecer de esta manera el trabajo de un equipo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwOTgyMDQ5XX0=
+eyJoaXN0b3J5IjpbLTE4OTk2NTIzNjRdfQ==
 -->
