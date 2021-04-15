@@ -9,7 +9,9 @@ Es un Sistema de mensajeria ordenada que permite la comunicacion simultanea de m
 Esta herramiento aun se encuentra en fase de desarrollo pero ya fue probada por varios grupos de docentes
 ## 3 Otras Experiencias de trabajo grupal y cooperativismo mediante TICS
 Experiencias realizadas por la facultad de informatica de la UNLP.
-Tuvo experimentos con estudiantes de pregrado y grado con 
+Tuvo experimentos con estudiantes de pregrado y grado, en la cual utilizaron celulares para cumplir trabajos cooperativos ademas de SMS
+
+## 3.1 El curso de pre-ingreso ala Facultad de Informatica de la 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjY1NTUwOV19
+eyJoaXN0b3J5IjpbLTE2NTUwNDE1NDVdfQ==
 -->
