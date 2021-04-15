@@ -13,7 +13,8 @@ Tuvo experimentos con estudiantes de pregrado y grado, en la cual utilizaron cel
 
 ## 3.1 El curso de pre-ingreso ala Facultad de Informatica de la Universidad UNLP
 
-Se utilizaron celulares y SMS para el ingreso a esta universidad ademas utilizaron
+Se utilizaron celulares y SMS para el ingreso a esta universidad ademas utilizaron su propio sistemas de Entorno Virtual de Aprendizaje donde se cordino esta modalidad.
+Se definio 3 aspectos para el exito 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDAxODQxNV19
+eyJoaXN0b3J5IjpbLTEzMzUyMTY2MDldfQ==
 -->
