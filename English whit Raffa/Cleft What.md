@@ -8,9 +8,9 @@
 - What is surprising is that Gary actually has a hard time saying not to people
 4. My manager and I get along really well. That's nice
 - What is nice is that my manager and I get along really well
-5. It's been great working with you. That's what I'v
+5. It's been great working with you. That's what I've always
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDgxNzQ5LDE1OTQxMzc0MTMsMTMzMT
-EwODYxMiwtMTY2NTI4MTQ4OSwxNDUzOTIzMTU2LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3MTcyMzg0MjEsMTM4NDgxNzQ5LDE1OT
+QxMzc0MTMsMTMzMTEwODYxMiwtMTY2NTI4MTQ4OSwxNDUzOTIz
+MTU2LC0yMDg4NzQ2NjEyXX0=
 -->
