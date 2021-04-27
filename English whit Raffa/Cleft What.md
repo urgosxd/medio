@@ -11,9 +11,9 @@
 5. It's been great working with you. That's what I've always wanted to tell you
 - What always wanted to tell you was that It's been great working with you
 6. I wish you would try to control your anger. That's what i mean
-- What mean is that I wish you would try to control your anger
+- What i mean is that I wish you would try to control your anger
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIyMDQ4NTUsLTczNTAyOTM4OSwtND
+eyJoaXN0b3J5IjpbLTE4NzA2MzM2OTYsLTczNTAyOTM4OSwtND
 QxNzU1NDcsMjAwNjYzMjAzNiwxMzg0ODE3NDksMTU5NDEzNzQx
 MywxMzMxMTA4NjEyLC0xNjY1MjgxNDg5LDE0NTM5MjMxNTYsLT
 IwODg3NDY2MTJdfQ==
