@@ -9,9 +9,10 @@
 4. My manager and I get along really well. That's nice
 - What is nice is that my manager and I get along really well
 5. It's been great working with you. That's what I've always wanted to tell you
-- What is always wanted to tell you was that It's been great working with you
+- What always wanted to tell you was that It's been great working with you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTc1NTQ3LDIwMDY2MzIwMzYsMTM4ND
-gxNzQ5LDE1OTQxMzc0MTMsMTMzMTEwODYxMiwtMTY2NTI4MTQ4
-OSwxNDUzOTIzMTU2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTczNTAyOTM4OSwtNDQxNzU1NDcsMjAwNj
+YzMjAzNiwxMzg0ODE3NDksMTU5NDEzNzQxMywxMzMxMTA4NjEy
+LC0xNjY1MjgxNDg5LDE0NTM5MjMxNTYsLTIwODg3NDY2MTJdfQ
+==
 -->
