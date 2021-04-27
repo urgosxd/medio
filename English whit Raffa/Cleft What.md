@@ -6,8 +6,9 @@
 - What facinates me is that most people tell lies to protect the ones they love.
 3. Gary actually has a hard time saying not to people. That's surprising
 - What is surprising is that Gary actually has a hard time saying not to people
-4. My manager
+4. My manager and I get along really well. That's nice
+- What is nice is that my manager and I get along really well
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NDgzMDY1LDEzMzExMDg2MTIsLTE2Nj
-UyODE0ODksMTQ1MzkyMzE1NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTU5NDEzNzQxMywxMzMxMTA4NjEyLC0xNj
+Y1MjgxNDg5LDE0NTM5MjMxNTYsLTIwODg3NDY2MTJdfQ==
 -->
