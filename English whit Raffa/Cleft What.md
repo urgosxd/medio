@@ -6,7 +6,8 @@
 - What facinates me is that most people tell lies to protect the ones they love.
 3. Gary actually has a hard time saying not to people. That's surprising
 - What is surprising is that Gary actually has a hard time saying not to people
+4. My manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDMxNzU4MiwxMzMxMTA4NjEyLC0xNj
-Y1MjgxNDg5LDE0NTM5MjMxNTYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDY5NDgzMDY1LDEzMzExMDg2MTIsLTE2Nj
+UyODE0ODksMTQ1MzkyMzE1NiwtMjA4ODc0NjYxMl19
 -->
