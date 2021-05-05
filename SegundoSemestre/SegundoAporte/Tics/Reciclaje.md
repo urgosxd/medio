@@ -5,9 +5,10 @@ Los **residuos de aparatos eléctricos y electrónicos (RAEE)** son aquellos ele
 ### Reciclaje de RAEES
 Los aparatos eléctricos y electrónicos poseen unas **características especialmente contaminantes**. **Un frigorífico mal reciclado** emite a la atmosfera gases de efecto invernadero equivalentes a las **emisiones de un coche en 15.000 kilómetros** o que el fósforo que hay dentro de un televisor es capaz de contaminar **hasta 80.000 litros de agua**. Además, muchos de estos dispositivos contienen sustancias como mercurio, cadmio o bromo, lo que provoca daños muy graves al medio ambiente y a las personas que los manipulan.
 ### Beneficios
-- Beneficios Economicos: Podemos darle un ultimo uso al aparato 
+- Beneficios Economicos: Podemos darle un ultimo uso al aparato que nos costo mucho.
+- Beneficios Ambientales: Como dijimos los Raaes son altamente 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA5NjAzNDksMTUyMTc5NDU2XX0=
+eyJoaXN0b3J5IjpbLTEwMzg4MzA5OTMsMTUyMTc5NDU2XX0=
 -->
