@@ -7,10 +7,11 @@ Los aparatos eléctricos y electrónicos poseen unas **características especial
 ### Beneficios
 - Beneficios Economicos: Podemos darle un ultimo uso al aparato que nos costo mucho. Ahorrandonos componentes para algunos proyectos
 - Beneficios Ambientales: Como dijimos los Raaes son altamente contaminantes, su reciclaje y el buen manejo de estos ayudara a preservas especies, conservar bosques y otros habitats naturales.
-- Beneficios ala Salud: Nuestro cuerpo al estar en contacto con metales pesados : Bronquitis; cáncer de esófago, laringe, enfermedades vasculares, Alteraciones neurológicas; afecciones del sistema respiratorio
+- Beneficios ala Salud: Nuestro cuerpo al estar en contacto con metales pesados o consumirlos ocasionan: Bronquitis; cáncer de esófago, laringe, enfermedades vasculares, Alteraciones neurológicas; afecciones del sistema respiratorio.
+- Al estar en cuidado nos ahorramos todas estas enfermedades
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzEyMjczMSwtMTAzODgzMDk5MywxNT
-IxNzk0NTZdfQ==
+eyJoaXN0b3J5IjpbMjUxNTU2MTIyLC0xMDM4ODMwOTkzLDE1Mj
+E3OTQ1Nl19
 -->
